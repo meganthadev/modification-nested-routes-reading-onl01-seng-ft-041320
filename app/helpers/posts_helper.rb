@@ -7,6 +7,6 @@ module PostsHelper
       hidden_field_tag "post[author_id]", post.author_id
     end 
    end 
- end 
+
   
 end
